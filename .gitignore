@@ -1,0 +1,11 @@
+# Virtual environment
+venv/
+
+# Outputs / generated files
+output/
+*.csv
+*.xlsx
+
+# Jupyter
+.ipynb_checkpoints/
+
